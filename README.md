@@ -38,6 +38,7 @@ These examples are made in **Ruby 2.5.1**. It is recommended to install this exa
 | 022 | [Using **Mixins** as Namespaces](code/day022.rb) |
 | 023 | [Using **Mixins** as Inheritance Alternative](code/day023.rb) |
 | 024 | [Including **Mixins** within existing objects](code/day024.rb) |
+| 025 | [Creating a library for multiplication of two library](code/day025.rb) |
 
 ## Account
 
