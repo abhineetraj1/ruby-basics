@@ -42,7 +42,8 @@ These examples are made in **Ruby 2.5.1**. It is recommended to install this exa
 | 026 | [DSA Bucket sort](code/day026.rb) |
 | 027 | [DSA Heap sort](code/day027.rb) |
 | 028 | [DSA Shell sort](code/day028.rb) |
-| 028 | [Account handling (Create, delete, verify) I: Arrays](code/day029.rb) |
+| 029 | [Account handling (Create, delete, verify) I: Arrays](code/day029.rb) |
+| 030 | [Server: basic login server](code/day030.rb)
 
 ## Account
 
