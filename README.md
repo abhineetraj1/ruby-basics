@@ -45,7 +45,7 @@ These examples are made in **Ruby 2.5.1**. It is recommended to install this exa
 | 029 | [Account handling (Create, delete, verify) I: Arrays](code/day029.rb) |
 | 030 | [Server: basic login server](code/day030.rb)
 | 031 | [2D Arrays: Inverse Matrics](code/day031.rb)
-| 031 | [Dijkstra's Algorithm](code/day032.rb)
+| 032 | [Dijkstra's Algorithm](code/day032.rb)
 
 ## Account
 
