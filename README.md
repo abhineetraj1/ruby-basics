@@ -48,7 +48,8 @@ These examples are made in **Ruby 2.5.1**. It is recommended to install this exa
 | 032 | [Dijkstra's Algorithm](code/day032.rb)
 | 033 | [Quicksort Algorithm](code/day033.rb)
 | 034 | [Caesar cipher](code/day034.rb)
+| 035 | [Fibonacci sequence](code/day035.rb)
 
-## Account
+## Developer
 
 [@abhineetraj1](https://github.com/abhineetraj1)
