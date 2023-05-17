@@ -49,6 +49,7 @@ These examples are made in **Ruby 2.5.1**. It is recommended to install this exa
 | 033 | [Quicksort Algorithm](code/day033.rb)
 | 034 | [Caesar cipher](code/day034.rb)
 | 035 | [Fibonacci sequence](code/day035.rb)
+| 036 | [Ruby web request lib](code/day036.rb)
 
 ## Developer
 
